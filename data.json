@@ -1,0 +1,511 @@
+{
+  "foreverFit": [
+    {
+      "name": "ECV Vanilla",
+      "price": "185.53 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203126&fileSize=15381&lastModified=1623326108000&contentType=image/jpeg"
+    },
+    {
+      "name": "ECC Chocolate",
+      "price": "185.53 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203133&fileSize=14929&lastModified=1623326278000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Beginner 1 & 2 Vanilla",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197824&fileSize=21528&lastModified=1616518353000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Beginner 1 & 2 Chocolate",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197828&fileSize=21736&lastModified=1616518410000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Intermediate 1 & 2 Vanilla",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197831&fileSize=21759&lastModified=1616518486000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Intermediate 1 & 2 Chocolate",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197834&fileSize=22119&lastModified=1616518550000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Advanced 1 & 2 Vanilla",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197837&fileSize=21975&lastModified=1616518618000&contentType=image/jpeg"
+    },
+    {
+      "name": "F15 Advanced 1 & 2 Chocolate",
+      "price": "208.07 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197840&fileSize=22175&lastModified=1616518689000&contentType=image/jpeg"
+    },
+    {
+      "name": "C9 Berry Ultra Chocolate",
+      "price": "160.47 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201744&fileSize=15909&lastModified=1682687971000&contentType=image/jpeg"
+    },
+    {
+      "name": "DX4™",
+      "price": "179.30 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203865&fileSize=11342&lastModified=1654727979000&contentType=image/jpeg"
+    },
+    {
+      "name": "C9 Peach Ultra Vanilla",
+      "price": "160.47 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201753&fileSize=16203&lastModified=1682688142000&contentType=image/jpeg"
+    },
+    {
+      "name": "C9 Berry Ultra Vanilla",
+      "price": "160.47 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201735&fileSize=16356&lastModified=1682687818000&contentType=image/jpeg"
+    }
+  ],
+  "vital5Paketi": [
+    {
+      "name": "Vital⁵ Combo Pack - Forever Aloe Vera Gel",
+      "price": "328.08 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197010&fileSize=29239&lastModified=1532958276000&contentType=image/jpeg"
+    },
+    {
+      "name": "Vital⁵ Combo Pack - Forever Aloe Berry Nectar",
+      "price": "328.08 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=200819&fileSize=28738&lastModified=1540485024000&contentType=image/jpeg"
+    },
+    {
+      "name": "Vital⁵ Combo Pack - Forever Aloe Peaches",
+      "price": "328.08 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196754&fileSize=28892&lastModified=1538503868000&contentType=image/jpeg"
+    },
+    {
+      "name": "Vital⁵ Combo Pack - Forever Freedom",
+      "price": "378.92 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196986&fileSize=28077&lastModified=1537270421000&contentType=image/jpeg"
+    }
+  ],
+  "foreverPaketi": [
+    {
+      "name": "Start Your Journey Pack",
+      "price": "491.09 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202377&fileSize=19809&lastModified=1604297365000&contentType=image/jpeg"
+    },
+    {
+      "name": "Start Your Personal Use Pack - Vanilla",
+      "price": "499.32 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202636&fileSize=18621&lastModified=1611957884000&contentType=image/jpeg"
+    },
+    {
+      "name": "Start Your Personal Use Pack - Chocolate",
+      "price": "499.32 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202386&fileSize=19809&lastModified=1604297457000&contentType=image/jpeg"
+    },
+    {
+      "name": "Touch of Forever",
+      "price": "698.42 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197138&fileSize=21262&lastModified=1488911542000&contentType=image/jpeg"
+    }
+  ],
+  "napici": [
+    {
+      "name": "Forever Marine Collagen",
+      "price": "104.69 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204142&fileSize=8982&lastModified=1671827032000&contentType=image/jpeg"
+    },
+    {
+      "name": "FAB Forever Active Boost",
+      "price": "4.59 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204517&fileSize=9631&lastModified=1683553157000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Aloe Mango",
+      "price": "40.10 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203190&fileSize=5909&lastModified=1626850726000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Aloe Vera Gel 12X330 ml",
+      "price": "160.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201489&fileSize=15988&lastModified=1616528633000&contentType=image/jpeg"
+    },
+    {
+      "name": "Tripack Argi+ i Aloe mini",
+      "price": "48.82 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201648&fileSize=15535&lastModified=1685528285000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Berry Nectar 12x330 ml",
+      "price": "160.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201662&fileSize=13528&lastModified=1616529232000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Peaches 12x330 ml",
+      "price": "160.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201672&fileSize=13792&lastModified=1616529561000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Aloe Vera Gel",
+      "price": "40.10 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=200298&fileSize=10502&lastModified=1531749733000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Berry Nectar",
+      "price": "40.10 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=200747&fileSize=10213&lastModified=1539709578000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Peaches",
+      "price": "40.10 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202875&fileSize=7048&lastModified=1616529158000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Freedom",
+      "price": "54.74 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197235&fileSize=11189&lastModified=1444655848000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Blossom Herbal Tea",
+      "price": "27.83 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197021&fileSize=16190&lastModified=1623841587000&contentType=image/jpeg"
+    }
+  ],
+  "dodaciIshrani": [
+    {
+      "name": "Forever Focus",
+      "price": "106.94 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202726&fileSize=7248&lastModified=1700161491000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Immune Gummy",
+      "price": "45.13 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204509&fileSize=7283&lastModified=1683552650000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Sensatiable",
+      "price": "32.02 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204970&fileSize=5762&lastModified=1693470952000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever iVision",
+      "price": "44.82 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202226&fileSize=6215&lastModified=1600780251000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Supergreens",
+      "price": "50.78 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201517&fileSize=12647&lastModified=1565005279000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Active Pro-B",
+      "price": "48.39 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=200563&fileSize=7956&lastModified=1537201090000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Move (ESM Complex)",
+      "price": "82.26 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=198299&fileSize=10087&lastModified=1531479668000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Nature-Min",
+      "price": "28.80 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196796&fileSize=9493&lastModified=1537194622000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Absorbent-C",
+      "price": "27.83 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197031&fileSize=10066&lastModified=1537193775000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Garlic-Thyme",
+      "price": "28.80 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197035&fileSize=9378&lastModified=1488557089000&contentType=image/jpeg"
+    },
+    {
+      "name": "Fields of Greens",
+      "price": "19.14 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197037&fileSize=9288&lastModified=1488557164000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lycium Plus",
+      "price": "52.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197039&fileSize=10679&lastModified=1444758477000&contentType=image/jpeg"
+    }
+  ],
+  "pcelinjiProizvodi": [
+    {
+      "name": "Forever Bee Pollen",
+      "price": "24.19 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197068&fileSize=6961&lastModified=1643025689000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Bee Propolis",
+      "price": "50.54 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197070&fileSize=6999&lastModified=1643025783000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Royal Jelly",
+      "price": "52.32 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197072&fileSize=6449&lastModified=1643025855000&contentType=image/jpeg"
+    }
+  ],
+  "regulacijaTjelesneTezine": [
+    {
+      "name": "Forever Plant Protein",
+      "price": "71.39 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204020&fileSize=12366&lastModified=1662456641000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Fast Break",
+      "price": "5.86 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197869&fileSize=18999&lastModified=1477049083000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Garcinia Plus",
+      "price": "52.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197074&fileSize=10304&lastModified=1444999161000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lean",
+      "price": "48.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197077&fileSize=9515&lastModified=1444999435000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Therm",
+      "price": "47.66 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196869&fileSize=10795&lastModified=1444999810000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lite Ultra - Vanilla",
+      "price": "34.49 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196857&fileSize=21804&lastModified=1445002231000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lite Ultra - Chocolate",
+      "price": "34.49 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197099&fileSize=18760&lastModified=1445002367000&contentType=image/jpeg"
+    }
+  ],
+  "licnaHigijena": [
+    {
+      "name": "Forever Instant Hand Cleanser",
+      "price": "17.01 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202218&fileSize=5108&lastModified=1600779986000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Hand Sanitizer",
+      "price": "4.88 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204360&fileSize=5545&lastModified=1677678057000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Jojoba Conditioner",
+      "price": "29.78 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203214&fileSize=4885&lastModified=1629458007000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Body Wash",
+      "price": "28.81 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203566&fileSize=4418&lastModified=1639401708000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Liquid Soap",
+      "price": "24.76 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203197&fileSize=5450&lastModified=1626851010000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Jojoba Shampoo",
+      "price": "27.85 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203206&fileSize=4316&lastModified=1626851116000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Aloe MPD® 2X Ultra",
+      "price": "38.34 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196879&fileSize=16343&lastModified=1445235529000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Aloe Lips",
+      "price": "5.52 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197251&fileSize=5604&lastModified=1676977872000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Bright Toothgel",
+      "price": "12.10 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197103&fileSize=6878&lastModified=1671120179000&contentType=image/jpeg"
+    },
+    {
+      "name": "Aloe Ever-Shield®",
+      "price": "11.37 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197387&fileSize=8753&lastModified=1444740390000&contentType=image/jpeg"
+    },
+    {
+      "name": "Gentleman’s Pride®",
+      "price": "23.57 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197106&fileSize=8345&lastModified=1445006126000&contentType=image/jpeg"
+    },
+    {
+      "name": "Avocado Face and Body Soap",
+      "price": "7.72 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196849&fileSize=15653&lastModified=1445235431000&contentType=image/jpeg"
+    }
+  ],
+  "njegaKoze": [
+    {
+      "name": "Forever Plant Protein",
+      "price": "71.39 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=204020&fileSize=12366&lastModified=1662456641000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Fast Break",
+      "price": "5.86 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197869&fileSize=18999&lastModified=1477049083000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Garcinia Plus",
+      "price": "52.43 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197074&fileSize=10304&lastModified=1444999161000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lean",
+      "price": "48.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197077&fileSize=9515&lastModified=1444999435000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Therm",
+      "price": "47.66 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196869&fileSize=10795&lastModified=1444999810000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lite Ultra - Vanilla",
+      "price": "34.49 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=196857&fileSize=21804&lastModified=1445002231000&contentType=image/jpeg"
+    },
+    {
+      "name": "Forever Lite Ultra - Chocolate",
+      "price": "34.49 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197099&fileSize=18760&lastModified=1445002367000&contentType=image/jpeg"
+    }
+  ],
+  "sonyaNjegaKoze": [
+    {
+      "name": "Sonya daily skincare system",
+      "price": "112.45 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201248&fileSize=19086&lastModified=1545065679000&contentType=image/jpeg"
+    },
+    {
+      "name": "Sonya refreshing gel cleanser",
+      "price": "31.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201143&fileSize=7493&lastModified=1544045061000&contentType=image/jpeg"
+    },
+    {
+      "name": "Sonya illuminating gel",
+      "price": "29.35 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201151&fileSize=5253&lastModified=1544065212000&contentType=image/jpeg"
+    },
+    {
+      "name": "Sonya refining gel mask",
+      "price": "31.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201160&fileSize=5752&lastModified=1544079564000&contentType=image/jpeg"
+    },
+    {
+      "name": "Sonya soothing gel moisturizer",
+      "price": "33.96 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201168&fileSize=7400&lastModified=1544080170000&contentType=image/jpeg"
+    },
+    {
+      "name": "Sonya Aloe Deep Moisturizing Cream",
+      "price": "38.16 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=197153&fileSize=15007&lastModified=1445329369000&contentType=image/jpeg"
+    }
+  ],
+  "ostalo": [
+    {
+      "name": "Sonya majica",
+      "price": "17.29 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201600&fileSize=7753&lastModified=1616522497000&contentType=image/jpeg"
+    },
+    {
+      "name": "FAB majica ženska",
+      "price": "18.31 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201606&fileSize=8828&lastModified=1616522762000&contentType=image/jpeg"
+    },
+    {
+      "name": "FAB majica muška",
+      "price": "18.31 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201609&fileSize=6663&lastModified=1616522936000&contentType=image/jpeg"
+    },
+    {
+      "name": "Šolja",
+      "price": "4.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202483&fileSize=9853&lastModified=1616525453000&contentType=image/jpeg"
+    },
+    {
+      "name": "Boca za vodu",
+      "price": "7.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202773&fileSize=4398&lastModified=1615298762000&contentType=image/jpeg"
+    },
+    {
+      "name": "Olovka bambus",
+      "price": "1.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=202766&fileSize=11564&lastModified=1616527187000&contentType=image/jpeg"
+    },
+    {
+      "name": "Lufa",
+      "price": "2.54 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=201594&fileSize=6292&lastModified=1616519437000&contentType=image/jpeg"
+    },
+    {
+      "name": "Plišana lutka FIT",
+      "price": "35.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203364&fileSize=12365&lastModified=1632901969000&contentType=image/jpeg"
+    },
+    {
+      "name": "Keramička figura Aloe",
+      "price": "35.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203355&fileSize=17741&lastModified=1632901917000&contentType=image/jpeg"
+    },
+    {
+      "name": "Plišana lutka Spa",
+      "price": "21.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203346&fileSize=16724&lastModified=1632901844000&contentType=image/jpeg"
+    },
+    {
+      "name": "Plišana lutka Lion",
+      "price": "21.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203339&fileSize=14799&lastModified=1632901628000&contentType=image/jpeg"
+    },
+    {
+      "name": "Plišana lutka Aladin",
+      "price": "21.00 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203330&fileSize=17347&lastModified=1632901529000&contentType=image/jpeg"
+    }
+  ],
+  "uzorci": [
+    {
+      "name": "Uzorak - Aloe-Jojoba šampon",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203466&fileSize=9132&lastModified=1633350079000&contentType=image/jpeg"
+    },
+    {
+      "name": "Uzorak - Aloe Moisturizing Lotion",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203432&fileSize=6428&lastModified=1633349684000&contentType=image/jpeg"
+    },
+    {
+      "name": "Uzorak - Forever pasta za zube",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203448&fileSize=6226&lastModified=1633349943000&contentType=image/jpeg"
+    },
+    {
+      "name": "Uzorak - Aloe Vera Gelly",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203439&fileSize=5662&lastModified=1633349838000&contentType=image/jpeg"
+    },
+    {
+      "name": "Uzorak - Aloe Heat Lotion",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203457&fileSize=7356&lastModified=1633350045000&contentType=image/jpeg"
+    },
+    {
+      "name": "Uzorak-propolis krema",
+      "price": "0.50 EUR",
+      "image_url": "https://flpshop.me/sw4i/thumbnail/cropped story thumb?thumbId=203584&fileSize=8442&lastModified=1639405945000&contentType=image/jpeg"
+    }
+  ]
+}
